@@ -43,11 +43,17 @@ Click the Calculate button to see your BMI.
 The calculated BMI and a health status message will be displayed on the page.
 
 ## Project Structure
+```
 BMI/
+
 ├── index.html       # Main HTML file with the BMI Calculator interface
+
 ├── style.css        # CSS file for styling and animations
+
 ├── script.js        # JavaScript file for BMI calculation logic
+
 └── README.md        # Project documentation
+```
 
 ## Technologies Used
 ### HTML5: 
